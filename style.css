@@ -1,0 +1,22 @@
+
+        body{background-color: rgb(221, 250, 184);}
+
+        h1{ color: red;
+        text-align: center;}
+
+        p{color: blue;
+        
+        font-size: 20px;}
+
+        img{width: 50%;
+        }
+
+        ul{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+        ;
+    font-weight: bolder;
+background-color: rgb(130, 179, 164);}
+
+        #norte{ color: red;}
+        #leste{ color: yellow;}
+        #sul{ color: white;}
+        #oeste{ color: black;}
